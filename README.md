@@ -13,7 +13,7 @@ To run the model, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/djayepro3/denoising-diffusion-model.git
+    git clone https://github.com/djayepro3/denoising-diffusion-model
     ```
 2. Navigate to the project directory:
     ```bash
