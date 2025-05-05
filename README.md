@@ -17,5 +17,5 @@ To run the model, follow these steps:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd denoising-diffusion-model.git
+    cd denoising-diffusion-model
     ```
