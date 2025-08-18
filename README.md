@@ -9,6 +9,7 @@ Denoising Diffusion Probabilistic Models (DDPMs) are a type of generative model 
  - Designed and trained a Noise Prediction Network and visualized the diffusion and denoising processes.
  - Addressed mode collapse with a temperature parameter.
 
+
 ## Usage
 
 To run the model, follow these steps:
